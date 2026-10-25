@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class searchtest {
+public class SearchTest {
 
     WebDriver driver;
 

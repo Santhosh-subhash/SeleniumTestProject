@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Registration {
+public class RegistrationTest {
 
     WebDriver driver;
 
